@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-utilities",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@gstvux",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstvux/tailwind-utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gstvux/tailwind-utilities/issues"
+  },
+  "homepage": "https://github.com/gstvux/tailwind-utilities#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
